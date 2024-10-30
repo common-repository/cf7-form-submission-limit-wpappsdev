@@ -1,0 +1,347 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CF7 "
+"Form Submission Limit - "
+"WPAppsDev\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"POT-Creation-Date: "
+"2023-09-16 03:55+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: WPAppsDev "
+"<anandacsebd@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit "
+"3.3.2\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: includes/Admin.php:30
+#: templates/custom-settings.php:9
+msgid "Submission Limit"
+msgstr ""
+
+#: includes/Admin.php:80
+msgid "Every"
+msgstr ""
+
+#: includes/Admin.php:81
+msgid "Every 2nd"
+msgstr ""
+
+#: includes/Admin.php:82
+msgid "Every 3rd"
+msgstr ""
+
+#: includes/Admin.php:83
+msgid "Every 4th"
+msgstr ""
+
+#: includes/Admin.php:84
+msgid "Every 5th"
+msgstr ""
+
+#: includes/Admin.php:85
+msgid "Every 6th"
+msgstr ""
+
+#: includes/Admin.php:89
+msgid "Day"
+msgstr ""
+
+#: includes/Admin.php:90
+msgid "Week"
+msgstr ""
+
+#: includes/Admin.php:91
+msgid "Month"
+msgstr ""
+
+#: includes/Admin.php:92
+msgid "Year"
+msgstr ""
+
+#: includes/Admin.php:96
+msgid ""
+"Depend on total form "
+"submit"
+msgstr ""
+
+#: includes/Admin.php:97
+msgid ""
+"Depend on user total "
+"form submit"
+msgstr ""
+
+#: includes/Admin.php:101
+msgid "Do nothing"
+msgstr ""
+
+#: includes/Admin.php:102
+msgid "Reload Page"
+msgstr ""
+
+#: includes/Admin.php:103
+msgid ""
+"Redirect specific page"
+msgstr ""
+
+#: includes/Admin.php:149
+#: includes/Ajax.php:33
+msgid "Are you cheating?"
+msgstr ""
+
+#: includes/Admin.php:192
+msgid "Select Page"
+msgstr ""
+
+#: includes/Assets.php:144
+msgid ""
+"Form submission limit "
+"reset successfully."
+msgstr ""
+
+#: includes/Assets.php:145
+msgid ""
+"Form submission limit "
+"reset not successfully."
+msgstr ""
+
+#: includes/Frontend.php:145
+msgid "Invalid user ID."
+msgstr ""
+
+#: includes/Frontend.php:156
+msgid ""
+"Your form submission "
+"limit is over."
+msgstr ""
+
+#: includes/Frontend.php:159
+msgid "Invalid user."
+msgstr ""
+
+#: includes/Frontend.php:165
+#: templates/counter-tag/userformsubmit.php:18
+msgid ""
+"You can not submit this "
+"form without login."
+msgstr ""
+
+#: includes/Frontend.php:175
+msgid ""
+"Form submission is over."
+msgstr ""
+
+#: includes/helper-functions.php:92
+#, php-format
+msgid "%s does not exist."
+msgstr ""
+
+#: includes/helper-functions.php:110
+msgid ""
+"action_args should not "
+"be overwritten when "
+"calling "
+"wpadcf7sl_get_template."
+msgstr ""
+
+#: templates/cf7-activation-notice.php:2
+msgid ""
+"Your CF7 Form Submission "
+"Limit plugins is almost "
+"ready!"
+msgstr ""
+
+#: templates/cf7-activation-notice.php:4
+#, php-format
+msgid ""
+"You just need to "
+"activate the <strong>%s</"
+"strong> to make it "
+"functional."
+msgstr ""
+
+#: templates/cf7-activation-notice.php:6
+msgid ""
+"Activate this plugin"
+msgstr ""
+
+#: templates/cf7-activation-notice.php:6
+msgid "Activate"
+msgstr ""
+
+#: templates/cf7-activation-notice.php:9
+#, php-format
+msgid ""
+"You just need to install "
+"& active the %sContact "
+"Form 7%s to make it "
+"functional."
+msgstr ""
+
+#: templates/counter-tag/formsubmit.php:8
+msgid ""
+"This form can be "
+"submitted up to"
+msgstr ""
+
+#: templates/counter-tag/formsubmit.php:8
+msgid "times"
+msgstr ""
+
+#: templates/counter-tag/formsubmit.php:11
+msgid ""
+"You cannot submit this "
+"form. Because form "
+"submission limit over."
+msgstr ""
+
+#: templates/counter-tag/userformsubmit.php:11
+msgid ""
+"You can submit this form"
+msgstr ""
+
+#: templates/counter-tag/userformsubmit.php:11
+msgid "time"
+msgstr ""
+
+#: templates/counter-tag/userformsubmit.php:14
+msgid ""
+"You cannot submit this "
+"form. Because your form "
+"submission limit over."
+msgstr ""
+
+#: templates/custom-settings.php:11
+msgid ""
+"If you enable form "
+"submission limit for "
+"this form please put "
+"this tag"
+msgstr ""
+
+#: templates/custom-settings.php:11
+msgid ""
+"in your form template. "
+"see"
+msgstr ""
+
+#: templates/custom-settings.php:11
+msgid "Configure Form"
+msgstr ""
+
+#: templates/custom-settings.php:15
+msgid ""
+"Enable Submission Limit"
+msgstr ""
+
+#: templates/custom-settings.php:19
+msgid ""
+"Submission Limit Type"
+msgstr ""
+
+#: templates/custom-settings.php:28
+msgid "Note"
+msgstr ""
+
+#: templates/custom-settings.php:28
+msgid ""
+"User cannot submit form "
+"without login."
+msgstr ""
+
+#: templates/custom-settings.php:35
+msgid "Total Submission"
+msgstr ""
+
+#: templates/custom-settings.php:39
+msgid ""
+"Disable Displaying "
+"Remaining Message"
+msgstr ""
+
+#: templates/custom-settings.php:43
+msgid ""
+"After Successfully Form "
+"Submission"
+msgstr ""
+
+#: templates/custom-settings.php:54
+msgid "Page Reload Delay"
+msgstr ""
+
+#: templates/custom-settings.php:58
+msgid ""
+"Please input how many "
+"second delay for page "
+"reload."
+msgstr ""
+
+#: templates/custom-settings.php:63
+msgid "Redirect Page"
+msgstr ""
+
+#: templates/custom-settings.php:72
+msgid ""
+"Please select which page "
+"you want to redirect."
+msgstr ""
+
+#: templates/custom-settings.php:78
+msgid ""
+"Disable Reset Submission "
+"Limit"
+msgstr ""
+
+#: templates/custom-settings.php:82
+msgid ""
+"Reset Submission Limit"
+msgstr ""
+
+#: templates/custom-settings.php:85
+msgid "Start Date"
+msgstr ""
+
+#: templates/custom-settings.php:89
+msgid "Reset Interval"
+msgstr ""
+
+#: templates/custom-settings.php:106
+msgid "Instant Reset"
+msgstr ""
+
+#: templates/custom-settings.php:107
+msgid "Reset Limit"
+msgstr ""

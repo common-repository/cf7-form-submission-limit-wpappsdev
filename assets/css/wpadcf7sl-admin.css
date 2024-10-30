@@ -1,0 +1,19 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.wpadcf7sl-settings .form-table tr th {
+    width: 250px !important;
+}
+.wpadcf7sl-hidden {
+    display: none;
+}
+.wpadcf7sl-reset-limit th {
+    padding: 5px 0px 10px;
+    font-size: 20px;
+}
+.wpadcf7sl-settings h2 {
+    font-size: 20px !important;
+    font-weight: 600 !important;
+}

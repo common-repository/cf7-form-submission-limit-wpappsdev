@@ -1,0 +1,24 @@
+{
+	"name": "siananda/wpappsdev-submission-limit-cf7",
+	"description": "Contact Form 7 form submission limit control plugin.",
+	"type": "wordpress-plugin",
+	"license": "GPLv2",
+	"authors": [
+		{
+            "name": "Saiful Islam Ananda",
+            "email": "anandacsebd@gmail.com"
+		}
+	],
+	"minimum-stability": "dev",
+	"require": {
+		"appsero/client": "dev-develop"
+	},
+	"autoload": {
+		"psr-4": {
+			"WPAppsDev\\CF7SL\\": "includes/"
+		},
+		"files": [
+			"includes/helper-functions.php"
+		]
+	}
+}
